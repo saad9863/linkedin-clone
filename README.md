@@ -1,6 +1,6 @@
 **LinkedIn Clone**
 
-This project is hostel on Firebase :https://linked-in-clone-91950.web.app/
+This project is hosted on Firebase :https://linked-in-clone-91950.web.app/
 
 **Overview**
 
